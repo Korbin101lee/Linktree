@@ -38,7 +38,7 @@ This project is a personal "Linktree" style website for Korbin Hillan, designed 
 2. Navigate to the project directory:
 ```cd project-directory```
 
-##How It Works
+## How It Works
 #Home Page
 The homepage displays:
 
@@ -46,26 +46,26 @@ The homepage displays:
 * A list of links to Korbin's platforms and resources.
 * An animated particle background for visual engagement.
 
-#Form Submission
+# Form Submission
 The form submission feature allows users to fill out a contact form. Submissions can be processed using JavaScript and a backend service (e.g., Firebase, Node.js, or PHP) for handling data.
 
-#Responsive Design
+# Responsive Design
 * The layout adapts to different screen sizes using media queries in CSS.
 * Interactive elements are optimized for touch input on mobile devices.
 
-#Future Enhancements
+# Future Enhancements
 * Add backend functionality to store and retrieve form submissions.
 * Include animations for smooth scrolling between sections.
 * Enhance SEO with meta tags and schema markup.
 * Add support for dark mode.
 
-#Credits
+# Credits
 * Developer: Korbin Hillan
 
 ## Libraries Used
 - **FontAwesome**
 - **particles.js**
 
-#License
+# License
 
 This project is licensed under the MIT License.
