@@ -62,8 +62,8 @@ The form submission feature allows users to fill out a contact form. Submissions
 #Credits
 * Developer: Korbin Hillan
 * Libraries Used:
-** FontAwesome
-** particles.js
+ FontAwesome
+ particles.js
 License
 This project is licensed under the MIT License.
 
